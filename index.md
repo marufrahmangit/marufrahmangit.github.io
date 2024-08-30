@@ -24,6 +24,10 @@ Following is a list of my cybersecurity projects. *Click on the links to see the
 
 > Analyzed domain controller security logs, PowerShell logs, and prefetch files to confirm the Kerberoasting attack's timeline, targeted services, and tools. Provided insights into Active Directory enumeration and credential dumping activities.
 
+### [Incident Response and Forensic Analysis of ASREP Roasting Attack](./projects/asrep-roasting-attack.md)
+
+> tbd
+
 ### Header 3
 
 ```js
