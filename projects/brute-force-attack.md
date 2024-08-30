@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+[go back](../)
 
 # Incident Response and Forensic Analysis on SSH Brute-Force Attack
 
