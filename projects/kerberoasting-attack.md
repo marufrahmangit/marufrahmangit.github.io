@@ -2,8 +2,7 @@
 Alonzo Spotted Weird files on his computer and informed the newly assembled SOC Team. Assessing the situation it is believed a Kerberoasting attack may have occurred in the network. It is your job to confirm the findings by analyzing the provided evidence. You are provided with: 1- Security Logs from the Domain Controller 2- PowerShell-Operational Logs from the affected workstation 3- Prefetch Files from the affected workstation.
 
 # Goal
-Confirm the findings by analyzing the provided evidence: the logs and the prefetch files, and answer the following questions as part of the incident response. Log files.
-
+Confirm the findings by analyzing the provided evidence: the logs and the prefetch files, and answer the following questions as part of the incident response.
 # Response
 ### Analyzing Domain Controller Security Logs, can you confirm the date & time when the kerberoasting activity occurred?
 In Security Logs, Filter for Event ID 4769. Now Look for any event where the service name is NOT( krbtgt or ends with $ (For e.g DC01$ ) ). The ticket type should be 0x17 which is for RC4 type encryption. The failure code should be 0x0. The event that matches all the above conditions is the event detailing information about the kerberoasting attack activity.
