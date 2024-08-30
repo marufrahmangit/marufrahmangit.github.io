@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-[Test](./cybersecurity-portfolio/hackthebox/test.html)
+[LLMNR Poisoning Attack](./projects/llmnr-poisoning-attack.html)
 
 There should be whitespace between paragraphs.
 
