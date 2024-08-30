@@ -2,13 +2,12 @@
 layout: default
 ---
 
-# 👋 Hi there, I’m Maruf Rahman.
+# Overview
+I am an aspiring Cybersecurity Professional currently building a Cybersecurity Portfolio as I continue to learn both the GRC and technical aspects of Cybersecurity that includes but are not limited to `Linux` `Python` `SQL` `MariaDB` `Snort` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
 
-👀 Thank you for coming to my space.
+I have a Bachelor of Science degree in Information Technology and have close to a decade of professional experience as a Programmer, Technical Writer, and a Project Manager in IT.
 
-💻 I am a Programmer, Technical Writer, and an aspiring Cybersecurity Professional with 7️+ years of experience in the IT industry working with various tools and technologies.
-
-🌱 I’m currently building a Cybersecurity Portfolio as I continue to learn the GRC and technical aspects of Cybersecurity including but not limited to `Linux` `Python` `SQL` `MariaDB` `Snort` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
+🌱 I’m currently building
 
 ## Header 2
 
