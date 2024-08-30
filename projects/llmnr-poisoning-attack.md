@@ -3,15 +3,17 @@ layout: default
 ---
 
 [go back](../)
-# Scenario
+# LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking
+
+## Scenario
 The IDS device alerted us to a possible rogue device in the internal Active Directory network. The Intrusion Detection System also indicated signs of LLMNR traffic, which is unusual. It is suspected that an LLMNR poisoning attack occurred. The LLMNR traffic was directed towards Forela-WKstn002, which has the IP address 172.17.79.136. A limited packet capture from the surrounding time is provided to you, our Network Forensics expert. Since this occurred in the Active Directory VLAN, it is suggested that we perform network threat hunting with the Active Directory attack vector in mind, specifically focusing on LLMNR poisoning.
 
-# Goal
+## Goal
 - Investigate through network traffic and uncover credential-stealing technique by abusing the LLMNR protocol feature in Windows. 
 - Learn how a victim made a typo navigating to a network share and how the attacker was using the Responder tool to steal hashes and pose as a legitimate device in the internal network. 
 - Learn to crack NTLMV2 hashes by gathering information from SMB traffic.
 
-# Incident Analysis
+## Incident Analysis
 To find the malicious IP address, first, I identified the IP Address of the domain controller. Any LLMNR requests originating from some other machine to another machine is a sign of a rogue machine pretending to be a Domain controller to capture hashes. I filtered for *UDP port 5355* in wireshark using `"udp.port == 5355"`. This will display all the LLMNR traffic. I found only 1 IP address responding to the victim machine to their query. This IP Address does not belong to the domain controller.
 
 ![image](https://github.com/user-attachments/assets/cb76d69f-1342-4325-9594-3d8a6a5cfe97)
@@ -80,7 +82,7 @@ Just to get more context surrounding the incident, I found actual file share tha
 
 ***\\DC01\DC-Confidential***
 
-# Summary
+## Summary
 
 - In LLMNR traffic, look for any machine responding to queries that is not a domain controller.
 
