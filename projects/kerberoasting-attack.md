@@ -3,6 +3,7 @@ layout: default
 ---
 
 [go back](../)
+
 # Incident Response and Forensic Analysis of Kerberoasting Attack
 
 ## Scenario
