@@ -16,11 +16,11 @@ Following is a list of my cybersecurity projects. *Click on the links to see the
 > Conducted network forensics to detect and analyze an LLMNR poisoning attack within Active Directory. Identified a rogue device using Wireshark, traced the attack, and recovered NTLMv2 hashes, showcasing techniques for detecting credential theft and password cracking with Hashcat.
 
 ## Data Forensic and Incident Response
-### [Incident Response and Forensic Analysis on SSH Brute-Force Attack](./projects/brute-force-attack.html)
+### [Incident Response and Forensic Analysis on SSH Brute-Force Attack](./projects/brute-force-attack.md)
 
 > Investigated a compromised Confluence server by analyzing Unix auth.log and wtmp logs to pinpoint the attacker’s IP, track unauthorized access, and uncover persistence methods. Identified privilege escalation, a backdoor account, and malicious script execution, correlating with MITRE ATT&CK sub-techniques.
 
-### [Incident Response and Forensic Analysis of Kerberoasting Attack](./projects/kerberoasting-attack.html)
+### [Incident Response and Forensic Analysis of Kerberoasting Attack](./projects/kerberoasting-attack.md)
 
 > Analyzed domain controller security logs, PowerShell logs, and prefetch files to confirm the Kerberoasting attack's timeline, targeted services, and tools. Provided insights into Active Directory enumeration and credential dumping activities.
 
