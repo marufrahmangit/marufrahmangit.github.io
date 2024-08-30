@@ -11,7 +11,7 @@ I have a BSc. degree in Information Technology and have close to a **decade of p
 Following is a list of my cybersecurity projects. *Click on the links to see the project details.*
 
 ## Security Operations Center (SOC)
-### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.html)
+### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
 
 > Conducted network forensics to detect and analyze an LLMNR poisoning attack within Active Directory. Identified a rogue device using Wireshark, traced the attack, and recovered NTLMv2 hashes, showcasing techniques for detecting credential theft and password cracking with Hashcat.
 
