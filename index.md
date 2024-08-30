@@ -8,7 +8,7 @@ layout: default
 
 💻 I am a Programmer, Technical Writer, and an aspiring Cybersecurity Professional with 7️+ years of experience in the IT industry working with various tools and technologies.
 
-🌱 I’m currently building a Cybersecurity Portfolio that includes learning and working on lab projects using Linux, Python, SQL, Splunk, EDR, NIST CSF, etc.
+🌱 I’m currently building a Cybersecurity Portfolio as I continue to learn the GRC and technical aspects of Cybersecurity including but not limited to `Linux` `Python` `SQL` `MariaDB` `Snort` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
 
 ## Header 2
 
