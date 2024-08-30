@@ -7,8 +7,6 @@ I am an aspiring Cybersecurity Professional currently building a Cybersecurity P
 
 I have a BSc. degree in Information Technology and have close to a decade of professional experience as a Programmer, Technical Writer, and a Project Manager in IT.
 
-🌱 I’m currently building
-
 ## Header 2
 
 > This is a blockquote following a header.
