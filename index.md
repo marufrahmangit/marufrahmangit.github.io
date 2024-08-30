@@ -8,16 +8,21 @@ I am an aspiring Cybersecurity Professional currently building a portfolio as I 
 I have a BSc. degree in Information Technology and have close to a **decade of professional experience** as a Programmer, Technical Writer, and a Project Manager in IT.
 
 # Projects
+Following is a list of my cybersecurity projects. *Click on the links to see the project details.*
 
 ## Security Operations Center (SOC)
-### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
+### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.html)
 
 > Conducted network forensics to detect and analyze an LLMNR poisoning attack within Active Directory. Identified a rogue device using Wireshark, traced the attack, and recovered NTLMv2 hashes, showcasing techniques for detecting credential theft and password cracking with Hashcat.
 
 ## Data Forensic and Incident Response
-### [Incident Response and Forensic Analysis on SSH Brute-Force Attack](./projects/brute-force-attack.md)
+### [Incident Response and Forensic Analysis on SSH Brute-Force Attack](./projects/brute-force-attack.html)
 
 > Investigated a compromised Confluence server by analyzing Unix auth.log and wtmp logs to pinpoint the attacker’s IP, track unauthorized access, and uncover persistence methods. Identified privilege escalation, a backdoor account, and malicious script execution, correlating with MITRE ATT&CK sub-techniques.
+
+### [Incident Response and Forensic Analysis of Kerberoasting Attack](./projects/kerberoasting-attack.html)
+
+> Analyzed domain controller security logs, PowerShell logs, and prefetch files to confirm the Kerberoasting attack's timeline, targeted services, and tools. Provided insights into Active Directory enumeration and credential dumping activities.
 
 ### Header 3
 
