@@ -2,19 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👋 Hi there, I’m Maruf Rahman.
 
-[Link to another page](./another-page.html).
+👀 Thank you for coming to my space.
 
-[LLMNR Poisoning Attack](./projects/llmnr-poisoning-attack.html)
+💻 I am a Programmer, Technical Writer, and an aspiring Cybersecurity Professional with 7️+ years of experience in the IT industry working with various tools and technologies.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+🌱 I’m currently building a Cybersecurity Portfolio that includes learning and working on lab projects using Linux, Python, SQL, Splunk, EDR, NIST CSF, etc.
 
 ## Header 2
 
