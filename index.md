@@ -5,7 +5,7 @@ layout: default
 # Overview
 I am an aspiring Cybersecurity Professional currently building a Cybersecurity Portfolio as I continue to learn both the GRC and technical aspects of Cybersecurity that includes but are not limited to `Linux` `Python` `SQL` `MariaDB` `Snort` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
 
-I have a Bachelor of Science degree in Information Technology and have close to a decade of professional experience as a Programmer, Technical Writer, and a Project Manager in IT.
+I have a BSc. degree in Information Technology and have close to a decade of professional experience as a Programmer, Technical Writer, and a Project Manager in IT.
 
 🌱 I’m currently building
 
