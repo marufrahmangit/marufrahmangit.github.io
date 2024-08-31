@@ -4,7 +4,7 @@ layout: default
 
 [go back](../)
 
-# Incident Response and Forensic Analysis on ASREP Roasting Attack
+<h1 style="text-align: center;">Incident Response and Forensic Analysis on ASREP Roasting Attack</h1>
 
 ## Scenario
 Forela's Network is constantly under attack. The security system raised an alert about an old admin account requesting a ticket from KDC on a domain controller. Inventory shows that this user account is not used as of now so you are tasked to take a look at this. This may be an AsREP roasting attack as anyone can request any user's ticket which has preauthentication disabled.
