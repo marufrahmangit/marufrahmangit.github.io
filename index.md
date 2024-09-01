@@ -25,3 +25,5 @@ Following is a list of my cybersecurity projects. *Click on the links to see the
 ### [Incident Response and Forensic Analysis of ASREP Roasting Attack](./projects/asrep-roasting-attack.md)
 
 > Investigated Windows event logs to detect ASREP Roasting and Kerberoasting attacks. Identified the attack timeline, targeted accounts, and IP addresses of compromised assets, focusing on key event IDs and attributes to support incident response and containment efforts.
+
+More to be added...
