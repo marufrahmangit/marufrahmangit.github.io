@@ -4,7 +4,7 @@ layout: default
 
 [🏠 home](../)
 
-<h1 style="text-align: center;">File and Directory Permission Management on Linux OS</h1>
+<h1 style="text-align: center;">File and Directory Permission Management on Linux OS(Part 2)</h1>
 
 # Scenario
 As an analyst, you must examine and manage the permissions on the files in the `/home/researcher2/projects` directory for the `researcher2` user.
