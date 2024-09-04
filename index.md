@@ -34,4 +34,4 @@ Following is a list of my cybersecurity projects. *Click on the links to see the
 
 > This project involves evaluating and prioritizing risks in a commercial bank's operational environment. By assessing the likelihood and severity of each risk, a risk register is developed to guide the cybersecurity team's focus on the most critical vulnerabilities, ensuring the bank's data and assets are well-protected.
 
-[go to page 2](./page-two.md)
+[more projects...](./page-two.md)
