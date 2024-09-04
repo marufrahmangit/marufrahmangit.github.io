@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[go back](../)
+[🏠 home](../)
 
 <h1 style="text-align: center;">Incident Response and Forensic Analysis of Kerberoasting Attack</h1>
 
