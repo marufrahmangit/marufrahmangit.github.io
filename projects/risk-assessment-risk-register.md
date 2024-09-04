@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[go back](../)
+[🏠 home](../)
 
 <h1 style="text-align: center;">Risk Assessment and Prioritization in a Commercial Bank</h1>
 
