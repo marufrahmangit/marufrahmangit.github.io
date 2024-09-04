@@ -14,7 +14,7 @@ layout: default
 
 > Investigated a brute force attack on a recipe website that compromised admin credentials and led to malware distribution. Analyzed network protocols and recommended implementing password restrictions and two-factor authentication to prevent future attacks.
 
-### [File and Directory Permission Management with Linux OS](./projects/file-directory-permission-management-linux.md)
+### [File and Directory Permission Management on Linux OS](./projects/file-directory-permission-management-linux.md)
 
 > Managed and adjusted file and directory permissions for an organization's sensitive directory. Corrected permissions for hidden files and directories to ensure proper access control for the user and group.
 
