@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[go back](../)
+[🏠 home](../)
 
 <h1 style="text-align: center;">LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking</h1>
 
