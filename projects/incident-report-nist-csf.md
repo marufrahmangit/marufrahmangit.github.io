@@ -4,7 +4,8 @@ layout: default
 
 [🏠 home](./)
 
-# Incident Report using NIST Cybersecurity Framework
+<h1 style="text-align: center;">Incident Report using NIST Cybersecurity Framework</h1>
+
 [Project reference](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity)
 
 ## Case Study Scenario
