@@ -4,7 +4,7 @@ layout: default
 
 [🏠 home](../)
 
-<h1 style="text-align: center;">File and Directory Permission Management on Linux OS (Part 1)</h1>
+<h1 style="text-align: center;">File and Directory Permission Management in Linux OS (Part 1)</h1>
 
 # Scenario
 As an analyst, you need to
