@@ -41,10 +41,28 @@ NIST developed SP 800-53 to provide businesses with a customizable information p
 - **Discussion:** A description of how the control should be implemented.
 - **Control enhancements:** A list of suggestions to improve the effectiveness of the control.
 
-| **AC-6**        | **Least Privilege**                                                      |
-|-----------------|---------------------------------------------------------------------------|
-|                 | **Control:** Only the minimal access and authorization required to complete a task or function should be provided to users. |
-|                 | **Discussion:** Processes, user accounts, and roles should be enforced as necessary to achieve least privilege. The intention is to prevent a user from operating at privilege levels higher than what is necessary to accomplish business objectives. |
-|                 | **Control enhancements:** <br> - Restrict access to sensitive resources based on user role. <br> - Automatically revoke access to information after a period of time. <br> - Keep activity logs of provisioned user accounts. <br> - Regularly audit user privileges. |
+<table>
+  <tr>
+    <th style="width: 200px;">AC-6</th>
+    <th>Least Privilege</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Control:</strong> Only the minimal access and authorization required to complete a task or function should be provided to users.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Discussion:</strong> Processes, user accounts, and roles should be enforced as necessary to achieve least privilege. The intention is to prevent a user from operating at privilege levels higher than what is necessary to accomplish business objectives.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Control enhancements:</strong><br>
+      - Restrict access to sensitive resources based on user role.<br>
+      - Automatically revoke access to information after a period of time.<br>
+      - Keep activity logs of provisioned user accounts.<br>
+      - Regularly audit user privileges.
+    </td>
+  </tr>
+</table>
 
 **Note:** In the category of access controls, SP 800-53 lists least privilege sixth, i.e., AC-6.
