@@ -26,4 +26,12 @@ Following is a list of my cybersecurity projects. *Click on the links to see the
 
 > Investigated Windows event logs to detect ASREP Roasting and Kerberoasting attacks. Identified the attack timeline, targeted accounts, and IP addresses of compromised assets, focusing on key event IDs and attributes to support incident response and containment efforts.
 
-More to be added...
+### [Securing Home Office Network Assets](./projects/asset-classification-home-office-network.md)
+
+> This project involves identifying and classifying devices in a home office network. It evaluates each device's access level, owner, and location to determine its sensitivity and required security measures.
+
+### [Risk Assessment and Prioritization in a Commercial Bank](./projects/risk-assessment-risk-register.md)
+
+> This project involves evaluating and prioritizing risks in a commercial bank's operational environment. By assessing the likelihood and severity of each risk, a risk register is developed to guide the cybersecurity team's focus on the most critical vulnerabilities, ensuring the bank's data and assets are well-protected.
+
+[go to page 2]
