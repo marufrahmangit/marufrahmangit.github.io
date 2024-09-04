@@ -6,7 +6,7 @@ layout: default
 
 # Projects (continued...)
 
-### [Controls and Compliance Assessment](./projects/asset-classification-home-office-network.md)
+### [Controls and Compliance Assessment](./projects/controls-and-compliance-assessment.md)
 
 > Conducted an IT audit for Botium Toys, using the NIST CSF to assess risks, evaluate controls, and recommend improvements for enhanced security and regulatory compliance.
 
