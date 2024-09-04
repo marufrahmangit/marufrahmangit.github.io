@@ -6,6 +6,10 @@ layout: default
 
 # Projects (continued...)
 
+### [Controls and Compliance Assessment](./projects/asset-classification-home-office-network.md)
+
+> Conducted an IT audit for Botium Toys, using the NIST CSF to assess risks, evaluate controls, and recommend improvements for enhanced security and regulatory compliance.
+
 ### [Securing Home Office Network Assets](./projects/asset-classification-home-office-network.md)
 
 > This project involves identifying and classifying devices in a home office network. It evaluates each device's access level, owner, and location to determine its sensitivity and required security measures.
