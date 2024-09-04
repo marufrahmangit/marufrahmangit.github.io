@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[🏠 home](./)
+[🏠 home](../)
 
 <h1 style="text-align: center;">Data Leak Incident Analysis and Control Implementation</h1>
 
