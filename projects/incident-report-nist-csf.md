@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[🏠 home](./)
+[🏠 home](../)
 
 <h1 style="text-align: center;">Incident Report using NIST Cybersecurity Framework</h1>
 
