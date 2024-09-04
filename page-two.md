@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[🏠](./)
+[🏠 back to home](./)
 
 # Projects (continued...)
 
