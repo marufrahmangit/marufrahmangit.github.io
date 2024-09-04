@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[go back](../)
+[🏠 home](../)
 
 <h1 style="text-align: center;">Classification of Assets in a Home Office Network</h1>
 
