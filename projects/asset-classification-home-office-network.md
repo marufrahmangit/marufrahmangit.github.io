@@ -26,14 +26,60 @@ To do this, you will start by identifying three devices that have access to your
 
 Then, you’ll list important characteristics of each device such as its owner, location, and type. Finally, you will assign each device a level of sensitivity based on how important it is to protect.
 
-# Asset Classification
-| Asset                    | Network access                | Owner                        | Location          | Notes                                                                 | *Sensitivity    |
-|--------------------------|-------------------------------|------------------------------|-------------------|-----------------------------------------------------------------------|----------------|
-| Network router   | Continuous      | Internet service provider (ISP) | On-premises      | Has a 2.4 GHz and 5 GHz connection. All devices on the home network connect to the 5 GHz frequency. | Confidential   |
-| Laptop          | Occasional               | Homeowner         | On-premises            | Contains private information, like media and work files.                            | Restricted     |
-| Guest smartphone | Occasional               | Friend            | On and Off-premises   | Connects to my home network.                                          | Internal-only  |
-| Smart home devices | Occasional             | Homeowner         | On and Off-premises   | Connects to my home network.                                          | Internal-only  |
-| Servers | Continuous     | Cloud service provider    | On-premises           | Connects to my home network.                                          | Restricted  |
+<table>
+  <thead>
+    <tr>
+      <th>Asset</th>
+      <th>Network Access</th>
+      <th>Owner</th>
+      <th>Location</th>
+      <th>Notes</th>
+      <th>Sensitivity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Network router</td>
+      <td>Continuous</td>
+      <td>Internet service provider (ISP)</td>
+      <td>On-premises</td>
+      <td>Has a 2.4 GHz and 5 GHz connection. All devices on the home network connect to the 5 GHz frequency.</td>
+      <td>Confidential</td>
+    </tr>
+    <tr>
+      <td>Laptop</td>
+      <td>Occasional</td>
+      <td>Homeowner</td>
+      <td>On-premises</td>
+      <td>Contains private information, like media and work files.</td>
+      <td>Restricted</td>
+    </tr>
+    <tr>
+      <td>Guest smartphone</td>
+      <td>Occasional</td>
+      <td>Friend</td>
+      <td>On and Off-premises</td>
+      <td>Connects to my home network.</td>
+      <td>Internal-only</td>
+    </tr>
+    <tr>
+      <td>Smart home devices</td>
+      <td>Occasional</td>
+      <td>Homeowner</td>
+      <td>On and Off-premises</td>
+      <td>Connects to my home network.</td>
+      <td>Internal-only</td>
+    </tr>
+    <tr>
+      <td>Servers</td>
+      <td>Continuous</td>
+      <td>Cloud service provider</td>
+      <td>On-premises</td>
+      <td>Connects to my home network.</td>
+      <td>Restricted</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Access Sensitivity
 
