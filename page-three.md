@@ -26,5 +26,9 @@ layout: default
 
 > Managed user lifecycle in a Linux environment by adding a new employee, assigning file ownership, updating group memberships, and eventually removing the user from the system. Demonstrated proficiency with commands for user and group management, file ownership, and system cleanup.
 
+### [System Administration: Employee and Machine Data Retrieval using SQL](./projects/sys-admin-data-retrieval-sql.md)
+
+> Extracted and analyzed employee and machine data, including OS listings, departmental details, and login attempts to support system administration tasks.
+
 
 [previous](./page-two.md) | [next](./page-four.md)
