@@ -22,4 +22,8 @@ layout: default
 
 >  Investigated a data leak caused by weak access controls. Identified gaps in least privilege application and recommended improvements. Reviewed NIST SP 800-53: AC-6 to enhance access controls and audit privileges, aiming to secure sensitive information and prevent future leaks.
 
+### [Incident Report: Analyzing SYN Flood Attack](./projects/incident-report-syn-flood-attack.md)
+
+>  Investigated a SYN flood attack on a travel agency’s web server, identified it as a DoS attack causing connection timeouts, and implemented temporary measures to mitigate the impact. Analyzed server logs and recommended further steps to prevent future occurrences.
+
 [previous](./index.md) | [next](./page-three.md)
