@@ -31,4 +31,4 @@ layout: default
 > Extracted and analyzed employee and machine data, including OS listings, departmental details, and login attempts to support system administration tasks.
 
 
-[previous](./page-two.md) | [next](./page-four.md)
+[previous](./page-two.md)
