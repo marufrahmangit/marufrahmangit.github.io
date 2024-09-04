@@ -16,6 +16,6 @@ layout: default
 
 ### [Data Leak Incident Analysis and Control Implementation](./projects/incident-analysis-data-leak.md)
 
-> This project investigates a data leak incident where internal documents were inadvertently exposed due to inadequate access controls. The analysis identifies the lapse in applying the principle of least privilege and recommends enhancements to prevent similar issues. The project includes a detailed review of NIST SP 800-53: AC-6, focusing on implementing robust access controls and regular privilege audits to secure sensitive information and mitigate data leak risks.
+>  Investigated a data leak caused by weak access controls. Identified gaps in least privilege application and recommended improvements. Reviewed NIST SP 800-53: AC-6 to enhance access controls and audit privileges, aiming to secure sensitive information and prevent future leaks.
 
 [previous](./index.md) | [next](./page-three.md)
