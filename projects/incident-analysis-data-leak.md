@@ -41,8 +41,6 @@ NIST developed SP 800-53 to provide businesses with a customizable information p
 - **Discussion:** A description of how the control should be implemented.
 - **Control enhancements:** A list of suggestions to improve the effectiveness of the control.
 
-## NIST SP 800-53: AC-6
-
 | **AC-6**        | **Least Privilege**                                                      |
 |-----------------|---------------------------------------------------------------------------|
 |                 | **Control:** Only the minimal access and authorization required to complete a task or function should be provided to users. |
