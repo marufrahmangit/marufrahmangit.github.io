@@ -21,8 +21,8 @@ The bank is located in a coastal area with low crime rates. Many people and syst
 | Asset                     | Risk(s)                     | Description                                                  | Likelihood | Severity | Priority |  
 |---------------------------|-----------------------------|--------------------------------------------------------------|------------|----------|----------|
 | Funds | Business email compromise   | An employee is tricked into sharing confidential information. |     1       |     3     |     3    |
-|  | Compromised user database  | Customer data is poorly encrypted.  |     2       |     6     |   12   |
-|     |Financial records leak |A database server of backed up data is publicly accessible.  |      2      |     6     |     12     |
+|  | Compromised user database  | Customer data is poorly encrypted.  |     2       |     3     |   6   |
+|     |Financial records leak |A database server of backed up data is publicly accessible.  |      1      |     3     |     3     |
 |                      | Theft |The bank's safe is left unlocked. |      1      |    1      |     3     |
 |    |Supply chain disruption  | Delivery delays due to natural disasters. |     1       |     3     |     3     |
 
