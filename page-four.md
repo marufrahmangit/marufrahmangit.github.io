@@ -6,9 +6,9 @@ layout: default
 
 # Projects (continued...)
 
-### [Security Risk Assessment for Social Media Organization](./projects/network-hardening-security-risk-assessment.md)
+### [Penetration Testing: Exploiting SQL Injection](./projects/pentest-sql-injection.md)
 
-> Assessed network vulnerabilities for a social media organization post-breach. Recommended MFA, strong password policies, and regular firewall maintenance to strengthen security and prevent future incidents.
+> This project demonstrates how to exploit SQL Injection vulnerabilities in a web application using enumeration techniques, such as Nmap scanning and Gobuster directory brute-forcing, to access sensitive data stored in a back-end SQL database. The target is a website with restricted search functionality, bypassed by leveraging `SQL Injection` to retrieve unauthorized information.
 
 
 [previous](./page-three.md)
