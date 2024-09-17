@@ -10,21 +10,17 @@ I have a BSc. degree in Information Technology and have almost a decade of profe
 # Featured Projects
 Click on the **links** to see the project details.
 
-### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
+### [Penetration Testing: Exploiting SQL Injection](./projects/pentest-sql-injection.md)
+
+> This project demonstrates how to exploit SQL Injection vulnerabilities in a web application using enumeration techniques, such as Nmap scanning and Gobuster directory brute-forcing, to access sensitive data stored in a back-end SQL database. The target is a website with restricted search functionality, bypassed by leveraging `SQL Injection` to retrieve unauthorized information.
+
+### [Incident Response and Forensic Analysis of LLMNR Poisoning Attack and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
 
 > Conducted network forensics to detect and analyze an LLMNR poisoning attack within Active Directory. Identified a rogue device using Wireshark, traced the attack, and recovered NTLMv2 hashes, showcasing techniques for detecting credential theft and password cracking with Hashcat.
-
-### [Incident Response and Forensic Analysis on SSH Brute-Force Attack](./projects/brute-force-attack.md)
-
-> Investigated a compromised Confluence server by analyzing Unix auth.log and wtmp logs to pinpoint the attacker’s IP, track unauthorized access, and uncover persistence methods. Identified privilege escalation, a backdoor account, and malicious script execution, correlating with MITRE ATT&CK sub-techniques.
 
 ### [Incident Response and Forensic Analysis of Kerberoasting Attack](./projects/kerberoasting-attack.md)
 
 > Analyzed domain controller security logs, PowerShell logs, and prefetch files to confirm the Kerberoasting attack's timeline, targeted services, and tools. Provided insights into Active Directory enumeration and credential dumping activities.
-
-### [Incident Response and Forensic Analysis of ASREP Roasting Attack](./projects/asrep-roasting-attack.md)
-
-> Investigated Windows event logs to detect ASREP Roasting and Kerberoasting attacks. Identified the attack timeline, targeted accounts, and IP addresses of compromised assets, focusing on key event IDs and attributes to support incident response and containment efforts.
 
 ### [Incident Report and Response Using NIST Cybersecurity Framework](./projects/incident-report-nist-csf.md)
 
