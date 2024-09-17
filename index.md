@@ -30,4 +30,4 @@ Click on the **links** to see the project details.
 
 > This project involves analyzing a DDoS attack on a multimedia company using the NIST Cybersecurity Framework. The report covers incident identification, protection measures, detection improvements, response strategies, and recovery steps to enhance the company's network security and prevent future attacks.
 
-[more projects...](./page-two.md)
+[more projects...](./page-one.md)
