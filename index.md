@@ -7,7 +7,7 @@ I am an aspiring Cybersecurity Professional currently building a portfolio as I 
 
 I have a BSc. degree in Information Technology and have almost a decade of professional experience as a Programmer, Technical Writer, and Project Manager in IT.
 
-# Projects
+# Featured Projects
 Click on the **links** to see the project details.
 
 ### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
