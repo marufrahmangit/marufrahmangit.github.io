@@ -10,9 +10,9 @@ I have a BSc. degree in Information Technology and have almost a decade of profe
 # Featured Projects
 Click on the **links** to see the project details.
 
-### [Penetration Testing: Exploiting SQL Injection](./projects/pentest-sql-injection.md)
+### [Penetration Testing: SQL Injection](./projects/pentest-sql-injection.md)
 
-> This project demonstrates how to exploit SQL Injection vulnerabilities in a web application using enumeration techniques, such as Nmap scanning and Gobuster directory brute-forcing, to access sensitive data stored in a back-end SQL database. The target is a website with restricted search functionality, bypassed by leveraging `SQL Injection` to retrieve unauthorized information.
+> Conducted a security assessment to identify and exploit SQL injection vulnerabilities in a web application. Analyzed and documented attack vectors, automated detection using SQLMap, and provided recommendations for securing database queries.
 
 ### [Incident Response and Forensic Analysis of LLMNR Poisoning Attack and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
 
