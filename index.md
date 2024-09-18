@@ -22,7 +22,7 @@ Click on the **links** to see the project details.
 
 > Analyzed domain controller security logs, PowerShell logs, and prefetch files to confirm the Kerberoasting attack's timeline, targeted services, and tools. Provided insights into Active Directory enumeration and credential dumping activities.
 
-### [Incident Report and Response Using NIST Cybersecurity Framework](./projects/incident-report-nist-csf.md)
+### [Incident Report Using NIST Cybersecurity Framework](./projects/incident-report-nist-csf.md)
 
 > This project involves analyzing a DDoS attack on a multimedia company using the NIST Cybersecurity Framework. The report covers incident identification, protection measures, detection improvements, response strategies, and recovery steps to enhance the company's network security and prevent future attacks.
 
