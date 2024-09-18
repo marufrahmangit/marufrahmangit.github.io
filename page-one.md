@@ -24,7 +24,7 @@ layout: default
 
 ### [Incident Report Using NIST Cybersecurity Framework](./projects/incident-report-nist-csf.md)
 
-> This project involves analyzing a DDoS attack on a multimedia company using the NIST Cybersecurity Framework. The report covers incident identification, protection measures, detection improvements, response strategies, and recovery steps to enhance the company's network security and prevent future attacks.
+> Analyzed a DDoS attack on a multimedia company, applying the NIST CSF to improve network security. Identified vulnerabilities, implemented protective measures including firewall rules and IDS/IPS systems, enhanced detection with monitoring and IP verification, and developed response strategies. Established recovery protocols to restore services and prevent future attacks.
 
 
 [previous](./index.md) | [next](./page-two.md)
