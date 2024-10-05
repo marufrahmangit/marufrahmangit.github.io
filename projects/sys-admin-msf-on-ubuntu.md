@@ -4,7 +4,7 @@ layout: default
 
 [🏠 home](../)
 
-<h1 style="text-align: center;">System Administration: Install (and uninstall) Metasploit Framework on Ubuntu</h1>
+<h1 style="text-align: center;">System Administration: Installing Metasploit on Ubuntu</h1>
 
 # OS Version
 ```
