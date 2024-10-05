@@ -20,10 +20,13 @@ sudo apt install curl postgresql postgresql-contrib
 # Install metasploit
 curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall
 
+# Give read, write, and execute permissions
 chmod 755 msfinstall
+
+# Execute installation
 sudo ./msfinstall
 
-# Create msf database.
+# Create msf database
 msfdb init
 
 # Launch msfconsole
@@ -35,7 +38,7 @@ db_status
 # Updating Metasploit Framework
 msfupdate
 
-# Check version:
+# Check version
 msfconsole  --version
 ```
 
