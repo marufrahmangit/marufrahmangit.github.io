@@ -17,7 +17,7 @@ layout: default
 
 ### [Penetration Testing: Capturing NetNTLMv2 Hash via File Inclusion Vulnerability in Windows Networks](./projects/pentest-file-inclusion-netntlmv2-active-dir.md)
 
-> This project demonstrates how a File Inclusion vulnerability on a Windows server can be exploited to capture a NetNTLMv2 hash. Using the Responder utility, we collect the challenge hash, then attempt password cracking with John the Ripper. The project also explores NTLM authentication mechanisms, providing foundational knowledge for identifying real-world vulnerabilities that may not be immediately obvious.
+> Conducted an assessment to exploit a File Inclusion vulnerability on a Windows server, capturing a NetNTLMv2 hash. Utilized Responder to intercept challenge hashes and tested password strength with John the Ripper. Documented NTLM authentication mechanics and recommended measures for mitigating related security risks.
 
 
 [previous](./page-three.md)
