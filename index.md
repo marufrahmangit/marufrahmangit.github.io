@@ -14,10 +14,6 @@ Click on the **links** to see the project details.
 
 > Conducted a security assessment to identify and exploit SQL injection vulnerabilities in a web application. Analyzed and documented attack vectors, automated detection using SQLMap, and provided recommendations for securing database queries.
 
-### [Penetration Testing: Capturing NetNTLMv2 Hash via File Inclusion Vulnerability in Windows Networks](./projects/pentest-file-inclusion-netntlmv2-active-dir.md)
-
-> Conducted an assessment to exploit a File Inclusion vulnerability on a Windows server, capturing a NetNTLMv2 hash. Utilized Responder to intercept challenge hashes and tested password strength with John the Ripper. Documented NTLM authentication mechanics and recommended measures for mitigating related security risks.
-
 ### [LLMNR Poisoning Attack Analysis and NTLMv2 Hash Cracking](./projects/llmnr-poisoning-attack.md)
 
 > Conducted network forensics to detect and analyze an LLMNR poisoning attack within Active Directory. Identified a rogue device using Wireshark, traced the attack, and recovered NTLMv2 hashes, showcasing techniques for detecting credential theft and password cracking with Hashcat.
