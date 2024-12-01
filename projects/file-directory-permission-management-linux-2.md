@@ -65,7 +65,7 @@ Check the permissions of the hidden file `.project_x.txt`.
 
 ![image](https://github.com/user-attachments/assets/571847ac-7b41-4da4-b0d3-bd48d170f8b5)
 
-The user and the group have incorrect `write` permissions. Change it so that the user and the group can read, but not write to the file: `chmod u-w,g-r,g+r <file name>`
+The user and the group have incorrect `write` permissions. Change it so that the user and the group can read, but not write to the file: `chmod u-w,g-w,g+r <file name>`
 
 ![image](https://github.com/user-attachments/assets/9fe30b1f-ca27-45a7-a800-1f0f6693d74a)
 
