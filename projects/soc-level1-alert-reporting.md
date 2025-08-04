@@ -35,8 +35,11 @@ Escalate to L2 Analyst and set the status to In Progress for further analysis.
 <img width="1812" height="682" alt="image" src="https://github.com/user-attachments/assets/fd20e2c5-2d55-4383-b31e-7a2dfac23451" />
 
 **Severity**: High 
+
 **Detection Time**: March 27, 2025 at 19:56 (UTC)  
+
 **Status**: In Progress 
+
 **Verdict**: True Positive
 
 **Report**: Multiple domain discovery commands (e.g., whoami, net group, nltest) were executed on DMZ-MSEXCHANGE-2013 under the SYSTEM account. These commands were run via cmd.exe, which was spawned by a suspicious binary (revshell.exe) located in the public user directory. The parent process of the reverse shell was w3wp.exe (IIS), indicating likely initial access via a web server vulnerability. This behavior is consistent with post-exploitation activity, not legitimate administrative use, and strongly suggests the host has been compromised. Immediate containment and forensic analysis are recommended.
