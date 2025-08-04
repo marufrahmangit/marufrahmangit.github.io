@@ -14,6 +14,9 @@ layout: default
 
 > Installing Metasploit framework on Ubuntu 24.04.
 
+### [SOC L1 Alert Triage & Escalation Practice](./projects/soc-level1-alert-reporting.md)
+
+> A hands-on project simulating SOC Level 1 alert triage, phishing analysis, and escalation to L2 analysts. Includes investigation, classification, and communication of real-world security incidents using structured reports.
 
 [previous](./page-three.md)
 
