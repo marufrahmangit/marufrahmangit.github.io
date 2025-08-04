@@ -25,7 +25,7 @@ The "sender" of the suspicious, likely phishing email: support@microsoft.com
 ### Phishing Email Incident Report
 **Report**: The email to e.huffman@tryhackme.thm was spoofed using a fake Microsoft domain and failed both SPF and DKIM checks. It contained phishing language and a .rar attachment named REPORT.rar, which may contain a malicious payload. User interaction is not yet confirmed, but delivery and spoofing indicators justify classifying this as a phishing attempt requiring sandbox analysis and mailbox sweep.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bf73784c-b26a-4b06-b9be-9ed1b0f113d1" />
+<img width="824" height="569" alt="image" src="https://github.com/user-attachments/assets/5174b632-b684-4759-a8e5-28ef78587e52" />
 
 ## Escalate to L2
 Escalate to L2 Analyst and set the status to In Progress for further analysis.
