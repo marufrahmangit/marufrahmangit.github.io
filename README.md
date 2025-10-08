@@ -1,1 +1,1 @@
-https:\\marufrahmangit.github.io
+https://marufrahmangit.github.io
