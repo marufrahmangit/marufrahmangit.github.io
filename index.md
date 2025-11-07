@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Overview
-These are writeups of my hands-on projects in GRC and cybersecurity that include (but are not limited to) tools such as `Linux` `Python` `SQL` `MariaDB` `SPL` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
+These are writeups of my hands-on projects in GRC and Cybersecurity that include (but are not limited to) tools such as `Linux` `Python` `SQL` `MariaDB` `SPL` `Splunk` `Wireshark` `Metasploit` `NIST CSF` and `ISO/IEC 27000`.
 
 # Featured Projects
 Click on the **links** to see the project details.
